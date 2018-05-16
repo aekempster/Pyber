@@ -1,7 +1,7 @@
 -----------------------------------------
 # GW Data Analytics Boot Camp
 
-#### May 2018 Cohort 
+#### May 2018 Cohort
 
 
 -----------------------------------------
@@ -39,7 +39,8 @@ You must give a full effort on every group and individual project.
 ## Important Links And Notes
 
 
-[Slack Room insert link here]
+* [Slack](https://gwdc201805data3.slack.com)
+* [Session Recordings](https://codingbootcamp.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22bacd9aa2-4b91-4b73-a0f6-a8e001669b19%22)
 
 -----------------------------------------
 
