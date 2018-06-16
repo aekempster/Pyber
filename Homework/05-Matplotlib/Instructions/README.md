@@ -1,4 +1,4 @@
-## Unit 5 | Assignment - The Power of Plots
+# Unit 5 | Assignment - The Power of Plots
 
 ## Background
 
@@ -30,14 +30,13 @@ In addition, you will be expected to produce the following three pie charts:
 As final considerations:
 
 * You must use the Pandas Library and the Jupyter Notebook.
-* You must use the Matplotlib and Seaborn libraries.
+* You must use the Matplotlib library.
 * You must include a written description of three observable trends based on the data.
 * You must use proper labeling of your plots, including aspects like: Plot Titles, Axes Labels, Legend Labels, Wedge Percentages, and Wedge Labels.
 * Remember when making your plots to consider aesthetics!
   * You must stick to the Pyber color scheme (Gold, Light Sky Blue, and Light Coral) in producing your plot and pie charts.
   * When making your Bubble Plot, experiment with effects like `alpha`, `edgecolor`, and `linewidths`.
   * When making your Pie Chart, experiment with effects like `shadow`, `startangle`, and `explosion`.
-* You must include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.
 * See [Example Solution](Pyber/Pyber_Example.pdf) for a reference on expected format.
 
 ## Option 2: Pymaceuticals Inc
@@ -58,7 +57,7 @@ To do this you are tasked with:
 As final considerations:
 
 * You must use the Pandas Library and the Jupyter Notebook.
-* You must use the Matplotlib and Seaborn libraries.
+* You must use the Matplotlib library.
 * You must include a written description of three observable trends based on the data.
 * You must use proper labeling of your plots, including aspects like: Plot Titles, Axes Labels, Legend Labels, X and Y Axis Limits, etc.
 * Your scatter plots must include [error bars](https://en.wikipedia.org/wiki/Error_bar). This will allow the company to account for variability between mice. You may want to look into [`pandas.DataFrame.sem`](http://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.sem.html) for ideas on how to calculate this.
@@ -66,14 +65,15 @@ As final considerations:
   * Your legends should not be overlaid on top of any data.
   * Your bar graph should indicate tumor growth as red and tumor reduction as green.
     It should also include a label with the percentage change for each bar. You may want to consult this [tutorial](http://composition.al/blog/2015/11/29/a-better-way-to-add-labels-to-bar-charts-with-matplotlib/) for relevant code snippets.
-* You must include an exported markdown version of your Notebook called  `README.md` in your GitHub repository.
 * See [Example Solution](Pymaceuticals/Pymaceuticals_Example.pdf) for a reference on expected format. (Note: For this example, you are not required to match the tables or data frames included. Your only goal is to build the scatter plots and bar graphs. Consider the tables to be potential clues, but feel free to approach this problem, however, you like.)
 
 ## Hints and Considerations
 
 * Be warned: These are very challenging tasks. Be patient with yourself as you trudge through these problems. They will take time and there is no shame in fumbling along the way. Data visualization is equal parts exploration, equal parts resolution.
 
-* Between these two exercises, the Pymaceuticals one is significantly more challenging. So choose that one only if you feel somewhat comfortable with the material covered so far. The Pymaceuticals example _will_ require you to research a good bit on your own for hacked solutions to problems you'll experience along the way. If you end up choosing this exercise, feel encouraged to constantly refer back to Stack Overflow and the Pandas Documentation. These are needed tools in every data analyst's arsenl.
+* You have been provided a starter notebook. Use the code comments as a **guideline** of steps you may wish to follow as you complete the assignment. You do not have to follow them step-for-step. Do not get bogged down in trying to interpret and accomplish each step.
+
+* Between these two exercises, the Pymaceuticals one is significantly more challenging. So choose that one only if you feel somewhat comfortable with the material covered so far. The Pymaceuticals example _will_ require you to research a good bit on your own for hacked solutions to problems you'll experience along the way. If you end up choosing this exercise, feel encouraged to constantly refer to Stack Overflow and the Pandas Documentation. These are needed tools in every data analyst's arsenal.
 
 * Don't get bogged down in small details. Always focus on the big picture. If you can't figure out how to get a label to show up correctly, come back to it. Focus on getting the core skeleton of your notebook complete. You can always re-visit old problems.
 
@@ -83,4 +83,4 @@ As final considerations:
 
 ## Copyright
 
-Coding Boot Camp (C) 2016. All Rights Reserved.
+Data Boot Camp © 2018. All Rights Reserved.
