@@ -4,6 +4,7 @@
 
 * What kinds of plots match the datasets below?
 
+
 ```
 # DATASET 1
 gyms = ["Crunch", "Planet Fitness", "NY Sports Club", "Rickie's Gym"]
