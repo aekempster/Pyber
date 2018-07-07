@@ -1,4 +1,5 @@
-# These keys are not valid. Use your own API keys
+# These keys are for @data_stew. 
+# Optionally, use your own API keys and update target_term with your Twitter handle
 
 consumer_key = "pWaFRDgs0S7kyzHX9ZLfNwxhX"
 consumer_secret = "iAcooaCTfBUi9HpZM2ZpDAwKyNdRnQX3Ed9nOcb4mWJELgqlGH"

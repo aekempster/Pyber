@@ -1,16 +1,24 @@
-# Instructions
+# Thank You, Come Again
 
-* In this activity, students will create a program similar to previous examples.
+Create a function that replies "Thank you!" to the most recent tweet mentioning you.
 
-  * Loop through all tweets
+For example, if @data_stew tweets `You look great @afhaque!`, @afhaque would reply `Thank you @data_stew!`
 
-  * Get ID and Author of most recent tweet directed to me
+Ask your neighbors to tweet something (complimentary) at you.
+
+## Instructions
+
+Follwing the comments in the starter file: 
+
+  * Assign `target_term` your Twitter handle
+  
+  * Get the ID and Author of the most recent tweet directed at you
 
   * Print the tweet_id
 
-  * Use Try-Except to avoid the duplicate error
+  * Use Try-Except to avoid duplicate errors
 
-  * Respond to tweet
+  * Respond to the tweet with 'Thank you!'
 
   * Print success message
 

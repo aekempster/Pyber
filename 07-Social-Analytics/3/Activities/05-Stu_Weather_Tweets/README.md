@@ -1,15 +1,17 @@
-### Instructions
+# Tweeting the Temperature
 
-* Create a function that gets the weather in London and Tweets it
+Create a function that gets the weather in London (or a city of your choosing) and Tweets the temperature in Fahrenheit.
 
-  * Construct a Query URL for the OpenWeatherMap
+## Instructions
 
-  * Perform the API call to get the weather
+  * Add your Twitter and OpenWeatherMap API keys to config.py
+  
+  * Construct a query URL for the OpenWeatherMap API
 
-  * Set up your Twitter credentials
+  * Make a request to the OpenWeatherMap API
 
-  * Tweet the weather
+  * Tweet the temperature
 
-  * Print the success message
+  * Print a success message
 
-  * Set timer to run every 1 hour
+  * Create a timer to run your function every hour
